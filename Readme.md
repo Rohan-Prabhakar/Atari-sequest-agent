@@ -6,7 +6,7 @@ This repository contains a Deep Q-Network (DQN) implementation specifically desi
 
 ## 🚀 Execution Flow & Model Outputs
 
-To reproduce the results, the notebooks must be run in the following chronological order. Each training stage generates specific **.pt (PyTorch)** model files that are required for subsequent analysis and testing.
+To reproduce the results, the notebooks must be run in the following chronological order in *Kaggle*. Each training stage generates specific **.pt (PyTorch)** model files that are required for subsequent analysis and testing.
 
 ### 1. `atari-seaquest-baseline-1.ipynb`
 * **Running Order:** Run this first to establish the performance floor.
